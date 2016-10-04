@@ -5,23 +5,26 @@
 Francleide Simão e José Victor Andrade
 
 ####OBJETIVO
-O objetivo desse projeto é para avaliar a criatividade e capacidade de implementação dos alunos utilizando a beaglebone e alguns componentes dados pelo professor em sala de aula
+O objetivo desse projeto é para avaliar a criatividade e capacidade de implementação dos alunos utilizando a beaglebone e alguns componentes dados pelo professor em sala de aula.
 
 ####COMPONENTES
 <ul>
-<li>Led vermelho</li>
-<li>Led RGB</li>
-<li>Potenciômetro</li>
-<li>Fotoresistor</li>
-<li>Butão</li>
-<li>Resistores</li>
+<li>1. Led vermelho</li>
+<li>1. Led RGB</li>
+<li>1. Potenciômetro</li>
+<li>1. Fotoresistor</li>
+<li>1. Botão</li>
+<li>3. Resistores de ohm</li>
+<li>1. Resistor de ohm</li>
+<li>1. Resistor de ohm</li>
 </ul>
 
 ####O PROJETO
-O projeto implementa um sistema de alarme, onde o **botão** liga o sistema, o **led vermelho** indica que o sistema está ligado, o **potenciômetro** altera a sensibilidade do **fotoresistor** para quando houver ausencia de luz ou variação no componente o sistema acionar o **led RGB**  
+O projeto implementa um sistema de alarme, onde o **botão** liga/desliga o sistema, o **led vermelho** indica que o sistema está ligado, o **potenciômetro** altera a sensibilidade do **fotoresistor**, para quando houver ausência ou variação de luz no componente para acionar o **led RGB**.  
 
 ####IMPLEMENTAÇÃO
-A implementação foi feita usando a linguagem Python
+A implementação foi feita usando a linguagem Python.<br><b>r
+<a href="">Código do Projeto</a>
 
 ####IMAGEM
 
