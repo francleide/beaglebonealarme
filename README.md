@@ -1,6 +1,9 @@
 # beaglebonealarme
 **Projeto desenvolvido por alunos do curso de Bacharelado em Tecnologia da Informação da UFRN para a disciplina de Sistemas Operacionais**
 
+####PROFESSOR
+ Ivanovitch Medeiros Dantas da Silva 
+
 ####AUTORES: 
 Francleide Simão e José Victor Andrade
 
