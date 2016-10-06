@@ -26,8 +26,8 @@ O objetivo desse projeto é para avaliar a criatividade e capacidade de implemen
 O projeto implementa um sistema de alarme, onde o **botão** liga/desliga o sistema, o **led vermelho** indica que o sistema está ligado, o **potenciômetro** altera a sensibilidade do **fotoresistor**, para quando houver ausência ou variação de luz no componente acionar o **led RGB** alternando entre as cores vermelho, verde e azul.
 
 ####IMPLEMENTAÇÃO
-A implementação foi feita usando a linguagem Python.<br><b>
-<a href="">Código do Projeto</a>
+A implementação foi feita usando a linguagem C++.<br><b>
+<a href="">Código do Projeto</a><br>
 /...em andamento.../
 
 ####IMAGEM
